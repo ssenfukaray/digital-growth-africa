@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "local-1788438310597",
+    "name": "",
+    "email": "ssenfukaraymond@gmail.com",
+    "phone": "",
+    "company": "",
+    "service": "",
+    "budget": "",
+    "source": "floating-ai-assistant",
+    "message": "ssenfuka raymond , my email is ssenfukaraymond@gmail.com and compony is pearl vision",
+    "transcript": [
+      {
+        "role": "assistant",
+        "content": "Hi, I can help you find the right service, check if a task can be automated, or start a free audit request. What are you trying to improve?"
+      },
+      {
+        "role": "user",
+        "content": "hello"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! 👋 What part of your business are you looking to improve—like a repetitive task, manual reporting, or something else?"
+      },
+      {
+        "role": "user",
+        "content": "i wand to code"
+      },
+      {
+        "role": "assistant",
+        "content": "Got it! Are you looking for a custom software solution (like an internal tool, dashboard, or customer portal) or a web/mobile app to serve your customers? Let me know the main problem you want the code to solve."
+      },
+      {
+        "role": "user",
+        "content": "ai automation"
+      },
+      {
+        "role": "assistant",
+        "content": "My decision: Needs more details.\n\nCould you share the specific task you’d like AI‑driven automation for (e.g., lead follow‑up, invoice processing, support ticket triage) and how often it occurs? This will help us see the fit and move forward with a free automation audit."
+      },
+      {
+        "role": "user",
+        "content": "i to do an ai assistant like you look into you sell and give me  to build mine"
+      },
+      {
+        "role": "assistant",
+        "content": "My decision: Needs more details.\n\nCould you tell me the exact task you want the AI assistant to handle (for example, answering customer queries, scheduling appointments, generating quotes, etc.) and how often it would be used? Once I have that, I can gather your name, email or phone, and company name to set up a free automation audit."
+      },
+      {
+        "role": "user",
+        "content": "ansering customer  scheduling appointments"
+      },
+      {
+        "role": "assistant",
+        "content": "My decision: Book the audit.\n\nGreat—let’s get a few details so our team can prepare a free automation audit for you:\n\n1. **Name**  \n2. **Email or phone**  \n3. **Company name**  \n4. **What you’d like the AI assistant to handle** (you mentioned answering customers and scheduling appointments – any other tasks?)\n\nOnce we have this, we’ll follow up within 4 business hours to discuss the next steps."
+      },
+      {
+        "role": "user",
+        "content": "before i book first tell briefly how it can happen"
+      },
+      {
+        "role": "assistant",
+        "content": "Great. Please send your name, email or phone number, company name, and the task you want help with."
+      },
+      {
+        "role": "user",
+        "content": "how will it work the automation"
+      },
+      {
+        "role": "assistant",
+        "content": "Great. Please send your name, email or phone number, company name, and the task you want help with."
+      },
+      {
+        "role": "user",
+        "content": "ssenfuka raymond , my email is ssenfukaraymond@gmail.com and compony is pearl vision"
+      }
+    ],
+    "status": "new",
+    "createdAt": "2026-09-03T12:25:10.597Z",
+    "storage": "local-file"
+  },
+  {
+    "_id": "local-1788359568222",
+    "name": "",
+    "email": "ssenfukaraymond@gmail.com",
+    "phone": "",
+    "company": "",
+    "message": "ssenfuka raymond , ssenfukaraymond@gmail.com my compomy is pearl vision i want bussiness assinstant",
+    "transcript": [
+      {
+        "role": "assistant",
+        "content": "Hi, I'm your Automation Opportunity Advisor. Tell me what your team repeats every week, and I'll explain in plain language what can be automated, how much time it could save, and whether it is worth a free audit."
+      },
+      {
+        "role": "user",
+        "content": "Our sales team manually reviews 200+ website leads every day. Hot leads wait too long, and we lose deals. Build an AI automation plan for this."
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, this can be automated.  \nYour sales team spends hours each day scanning 200+ website leads, and the hottest prospects sit idle too long, causing missed deals.  \n\nMy decision: Book the audit  \n\nAutomation in 3 simple steps:  \n1. Pull new leads into a single list as they arrive.  \n2. Flag leads that match a “hot” profile (e.g., high intent signals).  \n3. Send an instant, personalized email to the hot leads while notifying the right salesperson.  \n\nResult: You could reply to hot leads within minutes, cutting response time by 80% and potentially boosting closed‑won revenue by 15‑20%.  \n\nWould you like us to map this for your business in a free automation audit?"
+      },
+      {
+        "role": "user",
+        "content": "connect me the sales team"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, this can be automated.  \nYour salespeople are swamped manually checking leads, and hot prospects slip through the cracks, costing you deals.  \n\nMy decision: Book the audit  \n\nAutomation in 3 simple steps:  \n1. Gather new website leads the moment they appear.  \n2. Score each lead and instantly flag the hottest ones.  \n3. Auto‑send a personalized reply and alert the assigned salesperson.  \n\nOutcome: Respond to hot leads within minutes, cutting response time by 80% and likely increasing closed deals by 15‑20%.  \n\nWould you like us to map this for your business in a free automation audit?"
+      },
+      {
+        "role": "user",
+        "content": "yes do it"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, let us turn this into a real audit request. Please send your name, email or phone number, company name, and the task you want automated."
+      },
+      {
+        "role": "user",
+        "content": "ssenfuka raymond , ssenfukaraymond@gmail.com my compomy is pearl vision  i want bussiness assinstant"
+      },
+      {
+        "role": "assistant",
+        "content": "I could not send this to our team automatically right now, so I saved the request on this device. My decision: this is still worth a free audit. Please use the contact form below if you want to make sure it reaches us immediately."
+      },
+      {
+        "role": "user",
+        "content": "ssenfuka raymond , ssenfukaraymond@gmail.com my compomy is pearl vision i want bussiness assinstant"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, this can be automated.  \nYou want a business assistant that handles lead intake, scores prospects, and notifies the right sales rep instantly—removing the manual review bottleneck.  \n\nMy decision: Book the audit  \n\nAutomation in 3 simple steps:  \n1. Collect each new website lead the moment it appears.  \n2. Apply the “hot‑lead” criteria you define and flag those leads.  \n3. Auto‑send a personalized reply and push the lead to the assigned salesperson’s inbox.  \n\nResult: You’ll reply to hot leads within minutes, cutting response time by up 80% and likely lifting closed‑deal rates by 15‑20%.  \n\nWould you like us to map this for your business in a free automation audit? (If so, you can submit the details via our short contact form [link] to ensure we capture everything securely.)"
+      },
+      {
+        "role": "user",
+        "content": "yes do it"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, let us turn this into a real audit request. Please send your name, email or phone number, company name, and the task you want automated."
+      },
+      {
+        "role": "user",
+        "content": "ssenfuka raymond , ssenfukaraymond@gmail.com my compomy is pearl vision i want bussiness assinstant"
+      }
+    ],
+    "source": "ai-automation-demo",
+    "status": "new",
+    "createdAt": "2026-09-02T14:32:48.222Z",
+    "storage": "local-file"
+  }
+]
